@@ -1,0 +1,8 @@
+C:\Users\Qusai\source\repos\InherPolyAbst\InherPolyAbst\bin\Debug\InherPolyAbst.exe.config
+C:\Users\Qusai\source\repos\InherPolyAbst\InherPolyAbst\bin\Debug\InherPolyAbst.exe
+C:\Users\Qusai\source\repos\InherPolyAbst\InherPolyAbst\bin\Debug\InherPolyAbst.pdb
+C:\Users\Qusai\source\repos\InherPolyAbst\InherPolyAbst\obj\Debug\InherPolyAbst.csproj.AssemblyReference.cache
+C:\Users\Qusai\source\repos\InherPolyAbst\InherPolyAbst\obj\Debug\InherPolyAbst.csproj.SuggestedBindingRedirects.cache
+C:\Users\Qusai\source\repos\InherPolyAbst\InherPolyAbst\obj\Debug\InherPolyAbst.csproj.CoreCompileInputs.cache
+C:\Users\Qusai\source\repos\InherPolyAbst\InherPolyAbst\obj\Debug\InherPolyAbst.exe
+C:\Users\Qusai\source\repos\InherPolyAbst\InherPolyAbst\obj\Debug\InherPolyAbst.pdb
